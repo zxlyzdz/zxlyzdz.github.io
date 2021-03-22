@@ -1,0 +1,29 @@
+# Site settings
+title: Dragon
+email: zxl15079285349@qq.com
+description: Um lindo tema feito para jekyll e com o <3
+baseurl: "/blog"
+url: "www.zxlyzdz.com"
+
+author:
+  name     : 'Dragon'
+  email    : hi@nandomoreira.me
+  url      : www.zxlyzdz.com
+  facebook : www.zxlyzdz.com
+  twitter  : www.zxlyzdz.com
+
+github: https://github.com/zxlyzdz/zxlyzdz
+disqus_shortname: "fernandomoreira"
+google_analytics: UA-52446115-1
+
+paginate: 2
+comments: true
+paginate_path: "/page/:num"
+
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+# Build settings
+markdown  : Typora
+permalink : /:title/
