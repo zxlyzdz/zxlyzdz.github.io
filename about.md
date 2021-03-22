@@ -5,10 +5,14 @@ permalink: /about/
 slug: about
 ---
 
-This is a Jekyll theme. You can find out more information about customizing your theme Jekyll, as well as basic documentation Jekyll use in [jekyllrb.com](http://jekyllrb.com/).
+这里以后就是我编写博客的地方啦！初次使用，还有很多东西需要去学。请多多关照。
 
-You can find the source code for this theme: [github.com/nandomoreirame/zetsu]({{ site.github }})
+如果你有任何的问题或者想法都可以联系我哦！
 
-You can find the source code in Jekyll [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+QQ：1748153603  
+wechat: 15079285349
 
-Theme developed by: [{{ site.author.name }}]({{ site.author.url }})
+这里是 [github](https://github.com/zxlyzdz/zxlyzdz.github.io) 主页
+
+该网站任何的解释权归龙先生所有: [{{ site.author.name }}]({{ site.author.url }})
+
