@@ -6,6 +6,7 @@ Author: 龙龙
 categories: 
 tags: [Java]
 comments: true
+
 ---
 
 
@@ -90,7 +91,7 @@ comments: true
 
    
 
-   ![image-20210323155923684](C:\Users\周仙龙\AppData\Roaming\Typora\typora-user-images\image-20210323155923684.png)
+   ![image-20210323155923684](https://www.zxlyzdz.com/images/thread/1.png)
 
 2. 实现Runnable接口
 
@@ -135,7 +136,7 @@ comments: true
 
      
 
-     ![image-20210323184151226](C:\Users\周仙龙\AppData\Roaming\Typora\typora-user-images\image-20210323184151226.png)
+     ![image-20210323184151226](https://www.zxlyzdz.com/images/thread/2.png)
 
 3. 实现Callable接口
 
@@ -229,7 +230,7 @@ comments: true
      
      ```
 
-     ![image-20210323191232922](C:\Users\周仙龙\AppData\Roaming\Typora\typora-user-images\image-20210323191232922.png)
+     ![image-20210323191232922](https://www.zxlyzdz.com/images/thread/3.png)
 
 **lambda表达式**
 
@@ -338,11 +339,11 @@ comments: true
 
 ### 3. 线程状态
 
-![image-20210324122418277](C:\Users\周仙龙\AppData\Roaming\Typora\typora-user-images\image-20210324122418277.png)
+![image-20210324122418277](https://www.zxlyzdz.com/images/thread/4.png)
 
 * 创建状态
   * Thread t = new Thread()
-  *  线程对象一旦创建就进入到创建状态
+  * 线程对象一旦创建就进入到创建状态
 * 就绪状态
   * 当调用 start() 方法，线程立即进入就绪状态，但是不意味着立即调度执行
 
@@ -356,7 +357,7 @@ comments: true
 
 **线程方法**
 
-![image-20210324123000436](C:\Users\周仙龙\AppData\Roaming\Typora\typora-user-images\image-20210324123000436.png)
+![image-20210324123000436](https://www.zxlyzdz.com/images/thread/5.png)
 
 **停止线程**
 
@@ -742,7 +743,7 @@ public class TestThread4 implements Runnable{
 
 ```
 
-![image-20210323185518851](C:\Users\周仙龙\AppData\Roaming\Typora\typora-user-images\image-20210323185518851.png)
+![image-20210323185518851](https://www.zxlyzdz.com/images/thread/7.png)
 
 **线程同步**
 
@@ -1129,7 +1130,7 @@ class TestLock2 implements Runnable {
 
 **Java 提供了几个方法解决线程之间的通信问题**
 
-![image-20210324191609341](C:\Users\周仙龙\AppData\Roaming\Typora\typora-user-images\image-20210324191609341.png)
+![image-20210324191609341](https://www.zxlyzdz.com/images/thread/6.png)
 
 ​		**注意：均是 Object 类的方法，都只能在同步方法或者同步代码块中使用，否则会抛出异常IIIegalMonitorStateException**
 
