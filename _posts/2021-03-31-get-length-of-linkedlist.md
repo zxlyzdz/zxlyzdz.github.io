@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 剑指 Offer 22. 链表中倒数第k个节点
+title: 22. 链表中倒数第k个节点
 date: 2021-03-31
 Author: 龙龙
 categories: 
